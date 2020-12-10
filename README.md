@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erdal Guzel</h1>
 <h3 align="center">I am a new grad passionate mobile developer</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdalguzel&label=Profile%20views&color=0e75b6&style=flat" alt="erdalguzel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdalguzel" alt="erdalguzel" /></a> </p>
