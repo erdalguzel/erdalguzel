@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erdal Guzel</h1>
-<h3 align="center">I am a software developer learning in Java Spring Framework</h3>
+<h3 align="center">I am a software developer learning Java Spring Framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdalguzel&label=Profile%20views&color=0e75b6&style=flat" alt="erdalguzel" /> </p>
 
