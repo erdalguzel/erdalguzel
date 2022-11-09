@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdalguzel" alt="erdalguzel" /></a> </p>
 
-- 🌱 I’m currently learning **Android and Flutter frameworks**
+- 🌱 I’m currently learning learning Java Spring Framework
 
 - 👨‍💻 All of my projects are available at [github.com/erdalguzel](github.com/erdalguzel)
 
